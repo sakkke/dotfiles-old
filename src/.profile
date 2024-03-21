@@ -1,3 +1,5 @@
+export EDITOR=/usr/bin/nvim
+
 execsh() {
   exec "$SHELL" -l
 }
