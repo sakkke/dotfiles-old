@@ -1,3 +1,7 @@
+execsh() {
+  exec "$SHELL" -l
+}
+
 alias g=git
 alias ga='git add'
 alias gc='git commit'
