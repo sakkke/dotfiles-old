@@ -1,3 +1,4 @@
 git
 neovim
 sudo
+tmux
