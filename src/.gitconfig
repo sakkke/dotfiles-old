@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = sakkke
+	email = 84666033+sakkke@users.noreply.github.com
+[credential]
+	helper = store
