@@ -6,6 +6,8 @@ execsh() {
   exec "$SHELL" -l
 }
 
+alias c=cd
+
 alias g=git
 alias ga='git add'
 alias gc='git commit'
