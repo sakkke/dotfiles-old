@@ -1,3 +1,4 @@
+curl
 gcc
 git
 lazygit
