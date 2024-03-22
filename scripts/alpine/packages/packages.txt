@@ -1,6 +1,5 @@
 curl
 fd
-gcc
 git
 lazygit
 mandoc
