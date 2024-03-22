@@ -43,7 +43,6 @@ require("lazy").setup({
       require('catppuccin').setup({
         flavour = 'macchiato',
       })
-      vim.cmd.colorscheme "catppuccin"
     end,
   },
   {
@@ -71,3 +70,5 @@ require("lazy").setup({
     config = true,
   },
 })
+
+vim.cmd 'silent! colorscheme catppuccin'
