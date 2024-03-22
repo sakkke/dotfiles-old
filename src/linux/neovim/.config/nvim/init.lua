@@ -12,6 +12,10 @@ vim.opt.colorcolumn = '79'
 vim.api.nvim_set_keymap('i', 'jj', '<Esc>', { noremap = true, silent = true })
 
 vim.g.mapleader = ' '
+vim.api.nvim_set_keymap('n', '<Leader>q', '<Cmd>q<CR>', {
+  noremap = true,
+  silent = true,
+})
 
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
