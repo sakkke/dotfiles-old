@@ -21,7 +21,7 @@ if [ "$#" -gt 0 ]; then
   src_path="$1"
   link_profile "$src_path"
 else
-  for src_path in src/*; do
+  for src_path in src/linux/*; do
     link_profile "$src_path"
   done
 fi
