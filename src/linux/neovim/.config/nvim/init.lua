@@ -12,11 +12,11 @@ vim.opt.colorcolumn = '79'
 vim.api.nvim_set_keymap('i', 'jj', '<Esc>', { noremap = true, silent = true })
 
 vim.g.mapleader = ' '
-vim.api.nvim_set_keymap('n', '<Leader>q', '<Cmd>q<CR>', {
+vim.api.nvim_set_keymap('n', '<Leader>q', '<Cmd>quit<CR>', {
   noremap = true,
   silent = true,
 })
-vim.api.nvim_set_keymap('n', '<Leader>w', '<Cmd>w<CR>', {
+vim.api.nvim_set_keymap('n', '<Leader>w', '<Cmd>write<CR>', {
   noremap = true,
   silent = true,
 })
