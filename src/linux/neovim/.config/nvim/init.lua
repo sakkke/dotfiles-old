@@ -26,6 +26,17 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
   {
+    "catppuccin/nvim",
+    name = "catppuccin",
+    priority = 1000,
+    config = function()
+      require('catppuccin').setup({
+        flavour = 'macchiato',
+      })
+      vim.cmd.colorscheme "catppuccin"
+    end,
+  },
+  {
     'lewis6991/gitsigns.nvim',
     config = function()
       require('gitsigns').setup()
