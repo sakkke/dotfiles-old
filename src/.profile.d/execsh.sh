@@ -1,0 +1,3 @@
+execsh() {
+  exec "$SHELL" -l
+}
