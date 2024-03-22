@@ -19,8 +19,9 @@ link_profile() {
 
 if [ "$#" -gt 0 ]; then
   src_path="$1"
+  link_profile "$src_path"
 else
-  src_path=src
+  for src_path in src/*; do
+    link_profile "$src_path"
+  done
 fi
-
-link_profile "$src_path"
