@@ -9,6 +9,7 @@ vim.opt.relativenumber = true
 vim.opt.textwidth = 79
 vim.opt.colorcolumn = '79'
 
+vim.api.nvim_set_keymap('c', 'jj', '<C-c>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('i', 'jj', '<Esc>', { noremap = true, silent = true })
 
 vim.g.mapleader = ' '

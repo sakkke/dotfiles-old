@@ -9,4 +9,5 @@ set relativenumber
 set textwidth=79
 set colorcolumn=79
 
+cnoremap <silent> jj <C-c>
 inoremap <silent> jj <Esc>
