@@ -10,6 +10,15 @@ cd ~/.dotfiles
 ./install.sh
 ```
 
+## Post-install
+
+### Alpine Linux
+
+```sh
+cd ~/.dotfiles/scripts/alpine/packages
+sudo ./install.sh
+```
+
 ## License
 
 [MIT](./LICENSE)
