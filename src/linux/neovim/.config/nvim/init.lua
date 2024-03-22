@@ -16,6 +16,10 @@ vim.api.nvim_set_keymap('n', '<Leader>q', '<Cmd>q<CR>', {
   noremap = true,
   silent = true,
 })
+vim.api.nvim_set_keymap('n', '<Leader>w', '<Cmd>w<CR>', {
+  noremap = true,
+  silent = true,
+})
 
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
