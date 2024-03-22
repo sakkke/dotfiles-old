@@ -42,4 +42,9 @@ require("lazy").setup({
       require('gitsigns').setup()
     end,
   },
+  {
+    'windwp/nvim-autopairs',
+    event = "InsertEnter",
+    config = true,
+  },
 })
