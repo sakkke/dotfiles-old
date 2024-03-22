@@ -5,6 +5,7 @@ git
 lazygit
 mandoc
 neovim
+ranger
 ripgrep
 sudo
 tmux
