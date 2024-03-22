@@ -4,3 +4,5 @@
 	email = 84666033+sakkke@users.noreply.github.com
 [credential]
 	helper = store
+[init]
+	defaultBranch = main
