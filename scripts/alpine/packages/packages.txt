@@ -10,3 +10,4 @@ ranger
 ripgrep
 sudo
 tmux
+zellij
