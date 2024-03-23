@@ -3,6 +3,16 @@ vim.opt.tabstop = 2
 vim.opt.softtabstop = 2
 vim.opt.shiftwidth = 2
 
+vim.opt.list = true
+vim.opt.listchars = {
+  eol = '.',
+  tab = '>~',
+  space = '.',
+  trail = '~',
+  extends = '>',
+  precedes = '<',
+}
+
 vim.opt.number = true
 vim.opt.relativenumber = true
 

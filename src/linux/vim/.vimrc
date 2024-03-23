@@ -3,6 +3,9 @@ set tabstop=2
 set softtabstop=2
 set shiftwidth=2
 
+set list
+set listchars=eol:.,tab:>~,space:.,trail:~,extends:>,precedes:<
+
 set number
 set relativenumber
 
