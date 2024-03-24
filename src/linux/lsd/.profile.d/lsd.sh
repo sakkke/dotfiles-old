@@ -1,0 +1,3 @@
+if command -v lsd >/dev/null; then
+  alias ls=lsd
+fi
