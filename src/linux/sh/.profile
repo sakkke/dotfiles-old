@@ -1,3 +1,3 @@
 for profile in ~/.profile.d/*; do
-  source "$profile"
+  . "$profile"
 done
