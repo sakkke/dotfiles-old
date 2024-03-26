@@ -12,3 +12,4 @@ ripgrep
 sudo
 tmux
 zellij
+zoxide
