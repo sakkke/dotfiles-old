@@ -6,6 +6,7 @@ git
 lazygit
 mandoc
 neovim
+nodejs
 ranger
 ripgrep
 sudo
