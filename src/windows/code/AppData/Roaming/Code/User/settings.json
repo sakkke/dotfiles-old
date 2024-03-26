@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "none",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', Consolas, 'Courier New', monospace",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2
+}
