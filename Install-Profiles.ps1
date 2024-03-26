@@ -16,7 +16,7 @@ function Install-Profile
           $prefixLength = $PWD.Path.Length + 1
           $relPath = $absPath.Substring($prefixLength)
           $relPath | ForEach-Object {
-            $path = "${HOME}\${_}"
+            $path = "${USERPROFILE}\${_}"
             Write-Host "Creating directory '$path'"
             New-Item $path -ItemType Directory -ErrorAction SilentlyContinue > $null
           }
@@ -33,7 +33,7 @@ function Install-Profile
           $prefixLength = $PWD.Path.Length + 1
           $relPath = $absPath.Substring($prefixLength)
           $relPath | ForEach-Object {
-            $path = "${HOME}\${_}"
+            $path = "${USERPROFILE}\${_}"
             Write-Host "Linking from '$path' to '$absPath'"
             New-Item $path -ItemType SymbolicLink -Value $absPath -Force > $null
           }
