@@ -2,6 +2,7 @@ bat
 build-base
 curl
 fd
+ffmpeg
 git
 lazygit
 mandoc
