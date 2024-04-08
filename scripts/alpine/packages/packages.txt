@@ -6,6 +6,7 @@ ffmpeg
 git
 lazygit
 mandoc
+neofetch
 neovim
 nodejs
 ranger
