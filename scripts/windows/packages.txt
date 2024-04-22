@@ -33,6 +33,7 @@ OBSProject.OBSStudio
 Oracle.VirtualBox
 PrismLauncher.PrismLauncher
 PuTTY.PuTTY
+SlackTechnologies.Slack
 Starship.Starship
 TheDocumentFoundation.LibreOffice
 Unity.UnityHub
