@@ -34,6 +34,7 @@ Oracle.VirtualBox
 PrismLauncher.PrismLauncher
 PuTTY.PuTTY
 SlackTechnologies.Slack
+Spyder.Spyder
 Starship.Starship
 TheDocumentFoundation.LibreOffice
 Unity.UnityHub
