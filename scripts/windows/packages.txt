@@ -30,6 +30,7 @@ Mozilla.Thunderbird
 Mp3tag.Mp3tag
 Neovim.Neovim
 OBSProject.OBSStudio
+OpenVPNTechnologies.OpenVPN
 Oracle.VirtualBox
 PrismLauncher.PrismLauncher
 PuTTY.PuTTY
