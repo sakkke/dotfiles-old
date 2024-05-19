@@ -22,6 +22,7 @@ KDE.Krita
 KeePassXCTeam.KeePassXC
 MCreator.MCreator
 Microsoft.EdgeDriver
+Microsoft.PCManager.Beta
 Microsoft.PowerShell
 Microsoft.PowerToys
 Microsoft.VisualStudio.2022.Community
