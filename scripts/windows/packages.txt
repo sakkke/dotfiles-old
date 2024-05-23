@@ -45,4 +45,5 @@ Volta.Volta
 Wacom.WacomTabletDriver
 WinSCP.WinSCP
 gerardog.gsudo
+getzola.zola
 pixivInc.VRoidStudio
