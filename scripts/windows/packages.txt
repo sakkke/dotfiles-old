@@ -45,6 +45,7 @@ Valve.Steam
 Volta.Volta
 Wacom.WacomTabletDriver
 WinSCP.WinSCP
+WiresharkFoundation.Wireshark
 gerardog.gsudo
 getzola.zola
 pixivInc.VRoidStudio
