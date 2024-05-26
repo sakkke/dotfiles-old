@@ -1,5 +1,6 @@
 7zip.7zip
 BlenderFoundation.Blender
+Canva.Canva
 Clement.bottom
 Debian.Debian
 Discord.Discord
