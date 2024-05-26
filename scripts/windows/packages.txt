@@ -16,6 +16,7 @@ HTTPie.HTTPie
 HiroshibaKazuyuki.VOICEVOX
 ImageLine.FLStudio
 Inkscape.Inkscape
+Insecure.Npcap
 JetBrains.IntelliJIDEA.Community
 KDE.Kate
 KDE.Kdenlive
