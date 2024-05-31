@@ -51,3 +51,4 @@ WiresharkFoundation.Wireshark
 gerardog.gsudo
 getzola.zola
 pixivInc.VRoidStudio
+yt-dlp.yt-dlp
