@@ -43,6 +43,7 @@ Starship.Starship
 TheDocumentFoundation.LibreOffice
 Unity.UnityHub
 Valve.Steam
+VideoLAN.VLC
 Volta.Volta
 Wacom.WacomTabletDriver
 WinSCP.WinSCP
