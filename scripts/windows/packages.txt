@@ -15,6 +15,7 @@ Gyan.FFmpeg
 HTTPie.HTTPie
 HiroshibaKazuyuki.VOICEVOX
 ImageLine.FLStudio
+ImageMagick.ImageMagick
 Inkscape.Inkscape
 Insecure.Npcap
 JetBrains.IntelliJIDEA.Community
